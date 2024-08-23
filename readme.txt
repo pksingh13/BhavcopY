@@ -20,8 +20,17 @@ https://www.youtube.com/channel/UCDGuV7mOvaA5OWlHclvGmdg
 === Free online Horoscope Matching and Horoscope Generation program:
 https://jyotishy.in/
 
+Excel VBA App to download bhavcopy from NSE:
+https://www.youtube.com/watch?v=QLOPCqMe8J4&t=194s
+
+Excel VBA Date Picker:
+https://www.youtube.com/watch?v=6KC2E_cQ8os&t=338s
+
+Date Handling in Excel and VBA:
+https://www.youtube.com/watch?v=MlE29Vlhvg0
 
 
-Feel free to edit it.
+
+Feel free to edit it and use it.
 
 YK prakash
